@@ -50,5 +50,9 @@ namespace cu_interfaces.WPF
         private void btnCheckConnections_Click(object sender, RoutedEventArgs e)
         {
         }
+        
+        private void btnCheckInterfaceImplementation_Click(object sender, RoutedEventArgs e)
+        {
+        }
     }
 }
